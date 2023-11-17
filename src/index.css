@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.nav li a{
+  font-size: 22px;  
+}
+.nav li a:hover{
+  background-color:#ccc;
+  border-radius: 5px;
+  color: black;
+}
+.card p{
+  font-size: 18px;
+}
